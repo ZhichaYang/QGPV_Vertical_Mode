@@ -12,4 +12,5 @@ The eigenvalue is adjusted using Newton’s method
 
 the QGPV_VerticalMode_Shooting.m is the main function,and it needs dynmodes.m to run
 the dynmodes.m can get from https://github.com/sea-mat/dynmodes
+
 2024.12.29 11:49:43
